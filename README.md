@@ -17,6 +17,6 @@
 &gt; JavaScript
 
 <span style="color:#3fb950;">$</span> status
-&gt; Coding. Learning. Building. 🚀
+> Coding. Learning. Building. 🚀
 </pre>
 </div>
