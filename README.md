@@ -1,22 +1,22 @@
-<div style="background-color:#0d1117; color:#c9d1d9; padding:20px; border-radius:10px; font-family:Consolas,monospace; font-size:14px;">
+<div style="background-color:#0d1117; color:#c9d1d9; padding:20px; border-radius:10px; font-family:Consolas,monospace; font-size:14px; line-height:1.6;">
 <pre>
-$ gcc main.c -o info && ./info
-YetonDew 💻
-> Student at 42 Warsaw & Computer Science at PJATK
+<span style="color:#3fb950;">$</span> gcc main.c -o info && ./info
+<span style="color:#58a6ff;">YetonDew 💻</span>
+&gt; Student at 42 Warsaw &amp; Computer Science at PJATK
 
-$ skills --learning
-> Java
-> C++
-> C
+<span style="color:#3fb950;">$</span> skills --learning
+&gt; Java
+&gt; C++
+&gt; C
 
-$ skills --mastered
-> Astro.Build
-> HTML
-> CSS
-> Tailwind
-> Js
+<span style="color:#3fb950;">$</span> skills --mastered
+&gt; Astro.Build
+&gt; HTML
+&gt; CSS
+&gt; Tailwind
+&gt; JavaScript
 
-$ status
-> Coding. Learning. Building. 🚀
+<span style="color:#3fb950;">$</span> status
+&gt; Coding. Learning. Building. 🚀
 </pre>
 </div>
