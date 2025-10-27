@@ -6,7 +6,7 @@
 
 <span style="color:#3fb950;">$</span> skills --learning
 &gt; Java
-&gt; C++
+&gt; Python
 &gt; C
 
 <span style="color:#3fb950;">$</span> skills --mastered
