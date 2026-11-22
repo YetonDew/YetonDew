@@ -1,22 +1,22 @@
-<div style="background-color:#0d1117; color:#c9d1d9; padding:20px; border-radius:10px; font-family:Consolas,monospace; font-size:14px; line-height:1.6;">
-<pre>
-<span style="color:#3fb950;">$</span> gcc main.c -o info && ./info
-<span style="color:#58a6ff;">YetonDew 💻</span>
-&gt; Student at 42 Warsaw &amp; Computer Science at PJATK
-
-<span style="color:#3fb950;">$</span> skills --learning
-&gt; Java
-&gt; Python
-&gt; C
-
-<span style="color:#3fb950;">$</span> skills --mastered
-&gt; Astro.Build
-&gt; HTML
-&gt; CSS
-&gt; Tailwind
-&gt; JavaScript
-
-<span style="color:#3fb950;">$</span> status
-> Coding. Learning. Building. 🚀
-</pre>
-</div>
+```console
+$ whoami
+> Jefferson Arias Zuñiga — Python backend & automation developer
+ 
+$ cat stack.txt
+> Python · FastAPI · PostgreSQL · SQLAlchemy · Docker · Git · Linux
+> C (42 Warsaw) · SQL · TypeScript · Java
+ 
+$ ls ~/learning
+> pytest  alembic  embedded-c  esp32  stm32  freertos
+ 
+$ status
+> Open to Python internships and junior roles in Warsaw (hybrid / on-site)
+```
+ ## 🎓 Education
+- **BSc Computer Science**, Polish-Japanese Academy of Information Technology (PJATK), 2025–2028
+- **Computer Programming**, 42 Warsaw, 2025–2027
+## 🌍 Languages
+Spanish (native) · English (B2) · Polish (A2)
+ 
+## 📫 Contact
+[yetondew@gmail.com](mailto:yetondew@gmail.com) · LinkedIn: https://www.linkedin.com/in/yeton/
